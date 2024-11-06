@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "id": 101,
+      "category": "animal welfare",
+      "title": "Dog Adoption Fair",
+      "description": "Meet lovable dogs ready for their forever homes.",
+      "location": "Paws Park",
+      "date": "February 12, 2023",
+      "time": "09:00",
+      "organizer": "Bark Lee"
+    },
+    {
+      "id": 102,
+      "category": "education",
+      "title": "STEM Workshop for Kids",
+      "description": "Hands-on science activities for young minds.",
+      "location": "Innovation Center",
+      "date": "April 18, 2023",
+      "time": "14:00",
+      "organizer": "Dr. Ada Bits"
+    },
+    {
+      "id": 103,
+      "category": "community service",
+      "title": "Park Revitalization",
+      "description": "Join us to clean up and beautify the local park.",
+      "location": "Green Grove",
+      "date": "May 15, 2023",
+      "time": "08:00",
+      "organizer": "Eco Lee"
+    },
+    {
+      "id": 104,
+      "category": "food",
+      "title": "Farmers' Market Fest",
+      "description": "Enjoy fresh, local produce and handmade goods.",
+      "location": "Harvest Square",
+      "date": "June 3, 2023",
+      "time": "07:00",
+      "organizer": "Sunny Fields"
+    },
+    {
+      "id": 105,
+      "category": "arts",
+      "title": "Art in the Park",
+      "description": "Local artists display and sell their work.",
+      "location": "Creative Corner",
+      "date": "September 21, 2023",
+      "time": "10:00",
+      "organizer": "Arty Muse"
+    },
+    {
+      "id": 106,
+      "category": "health and wellness",
+      "title": "Yoga in the Morning",
+      "description": "Start your day with a relaxing yoga session.",
+      "location": "Zen Gardens",
+      "date": "August 5, 2023",
+      "time": "06:30",
+      "organizer": "Yogi Bliss"
+    },
+    {
+      "id": 107,
+      "category": "sustainability",
+      "title": "River Cleanup Challenge",
+      "description": "Volunteers needed to help clean our local river.",
+      "location": "Crystal River",
+      "date": "October 12, 2023",
+      "time": "09:30",
+      "organizer": "River Friends"
+    },
+    {
+      "id": 108,
+      "category": "technology",
+      "title": "Tech Trends Seminar",
+      "description": "Explore the latest trends in technology.",
+      "location": "Tech Hub Center",
+      "date": "November 10, 2023",
+      "time": "13:00",
+      "organizer": "Future Innovators"
+    }
+  ]
+}
